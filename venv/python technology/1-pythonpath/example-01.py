@@ -1,0 +1,5 @@
+import urllib  # urllib.request.urlopen("https://google.com")
+import urllib.request  # utllib.request.urlopen("https://amazon.com")
+from urllib import request  # request.urlopen("https://ebay.com")
+from urllib.request import urlopen  # urlopen("https://wikipedia.com")
+from urllib.request import *  # urlopen("https://gmail.com")

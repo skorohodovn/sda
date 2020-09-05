@@ -1,0 +1,7 @@
+print(type(0))
+print(type(0.123))
+print(type(1-2j))
+print(type("house"))
+print(type(b"This is a byte sentence"))
+print(type(True))
+print(type(None))

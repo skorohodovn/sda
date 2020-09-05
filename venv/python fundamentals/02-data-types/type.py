@@ -1,0 +1,6 @@
+print(type("what is my type?"))
+print(type(28.2))
+print(type(True and False))
+print(type('True' and 'False'))
+print(type(2 + int(3.0)))
+print(float(100))
